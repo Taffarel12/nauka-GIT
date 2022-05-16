@@ -1,3 +1,5 @@
+$ html-validator <url> --html
+
 [
   {
     "type": "error",
