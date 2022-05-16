@@ -1,0 +1,12 @@
+[
+  {
+    "type": "error",
+    "lastLine": 8,
+    "lastColumn": 32,
+    "firstColumn": 27,
+    "message": "Stray end tag “div”.",
+    "extract": "aaaad code</div></p>\n<",
+    "hiliteStart": 10,
+    "hiliteLength": 6
+  }
+]
